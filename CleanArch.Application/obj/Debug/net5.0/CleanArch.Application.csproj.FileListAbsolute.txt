@@ -1,0 +1,15 @@
+C:\IGOR\ESTUDO\CleanArchitecture\Macoratti\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Application.deps.json
+C:\IGOR\ESTUDO\CleanArchitecture\Macoratti\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Application.dll
+C:\IGOR\ESTUDO\CleanArchitecture\Macoratti\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Application.pdb
+C:\IGOR\ESTUDO\CleanArchitecture\Macoratti\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Domain.dll
+C:\IGOR\ESTUDO\CleanArchitecture\Macoratti\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Domain.pdb
+C:\IGOR\ESTUDO\CleanArchitecture\Macoratti\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.csproj.AssemblyReference.cache
+C:\IGOR\ESTUDO\CleanArchitecture\Macoratti\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\IGOR\ESTUDO\CleanArchitecture\Macoratti\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.AssemblyInfoInputs.cache
+C:\IGOR\ESTUDO\CleanArchitecture\Macoratti\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.AssemblyInfo.cs
+C:\IGOR\ESTUDO\CleanArchitecture\Macoratti\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.csproj.CoreCompileInputs.cache
+C:\IGOR\ESTUDO\CleanArchitecture\Macoratti\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.csproj.CopyComplete
+C:\IGOR\ESTUDO\CleanArchitecture\Macoratti\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.dll
+C:\IGOR\ESTUDO\CleanArchitecture\Macoratti\CleanArch\CleanArch.Application\obj\Debug\net5.0\refint\CleanArch.Application.dll
+C:\IGOR\ESTUDO\CleanArchitecture\Macoratti\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.pdb
+C:\IGOR\ESTUDO\CleanArchitecture\Macoratti\CleanArch\CleanArch.Application\obj\Debug\net5.0\ref\CleanArch.Application.dll

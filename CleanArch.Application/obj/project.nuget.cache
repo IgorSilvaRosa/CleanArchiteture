@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gv785yrHS5ykfikBJWfel3XqOs5k8flov5G+c1vTYA7pO4D/FgHsb0UxZ17fgbr/2EP4e8L0ZmhSIGOYLds/Kw==",
+  "success": true,
+  "projectFilePath": "C:\\IGOR\\ESTUDO\\CleanArchitecture\\Macoratti\\CleanArch\\CleanArch.Application\\CleanArch.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Qintess\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Qintess\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

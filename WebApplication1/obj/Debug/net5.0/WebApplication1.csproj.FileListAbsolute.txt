@@ -1,0 +1,9 @@
+C:\IGOR\ESTUDO\CleanArchitecture\Macoratti\CleanArch\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.AssemblyReference.cache
+C:\IGOR\ESTUDO\CleanArchitecture\Macoratti\CleanArch\WebApplication1\obj\Debug\net5.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\IGOR\ESTUDO\CleanArchitecture\Macoratti\CleanArch\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfoInputs.cache
+C:\IGOR\ESTUDO\CleanArchitecture\Macoratti\CleanArch\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfo.cs
+C:\IGOR\ESTUDO\CleanArchitecture\Macoratti\CleanArch\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\IGOR\ESTUDO\CleanArchitecture\Macoratti\CleanArch\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\IGOR\ESTUDO\CleanArchitecture\Macoratti\CleanArch\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\IGOR\ESTUDO\CleanArchitecture\Macoratti\CleanArch\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cache
+C:\IGOR\ESTUDO\CleanArchitecture\Macoratti\CleanArch\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cs
